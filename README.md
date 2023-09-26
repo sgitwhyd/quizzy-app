@@ -1,5 +1,7 @@
 ## Quiz App
 
+<a href="https://sigit-quizzy.netlify.app/" target="_blank">Demo Project</a>
+
 <div>
 <img src="https://i.ibb.co/bgbJTZ2/Screenshot-2023-09-26-201540.png"  width="300" height="200">
 <img src="https://i.ibb.co/HXW0zJJ/Screenshot-2023-09-26-201602.png"  width="300" height="200">
